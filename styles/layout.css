@@ -1,3 +1,9 @@
+/*
+    Author: Samuel Marchuk
+    Date: 8/21/2024
+    File: layout.css
+ */
+
 body {
   display: grid;
   grid-template-columns: 3fr 1fr;
