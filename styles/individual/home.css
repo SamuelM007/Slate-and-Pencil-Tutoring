@@ -1,0 +1,15 @@
+main {
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+section {
+  width: 300px;
+  padding: 40px;
+  text-wrap: wrap;
+  font-size: 18px;
+}
+
+img {
+  width: 200px;
+}

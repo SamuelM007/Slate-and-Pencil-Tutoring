@@ -1,0 +1,20 @@
+main {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+aside {
+  display: grid;
+  grid-template-columns: 1fr 9fr;
+  gap: 10px;
+  align-items: center;
+}
+
+aside p {
+  font-size: 20px;
+  color: indigo;
+}
+
+aside img {
+  grid-row: 1 / span 2;
+}

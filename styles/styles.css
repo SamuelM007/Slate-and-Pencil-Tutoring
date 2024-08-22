@@ -1,0 +1,32 @@
+body {
+  border: 5px #e9c96f solid;
+  border-top: none;
+}
+
+.vertical {
+  background-color: #709ade;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+.horizontal {
+  background-color: #19002f;
+  padding: 5px;
+}
+
+footer {
+  background-color: #19002f;
+  color: white;
+  padding: 5px;
+}
+
+a {
+  text-decoration: none;
+}

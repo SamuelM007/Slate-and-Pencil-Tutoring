@@ -1,0 +1,38 @@
+main {
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+main p {
+  color: indigo;
+}
+
+table {
+  border-collapse: collapse;
+  border: black solid 1px;
+  margin: 0 40px;
+  margin-bottom: 40px;
+}
+
+thead {
+  background-color: #19002f;
+  color: white;
+  font-weight: bold;
+}
+
+th {
+  padding: 8px;
+}
+
+tbody tr {
+  background-color: #c1c1d6;
+}
+
+tbody > :nth-child(odd) {
+  background-color: #ebebf7;
+}
+
+td {
+  border: black solid 1px;
+  padding: 5px;
+}
